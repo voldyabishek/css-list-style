@@ -1,0 +1,19 @@
+ol{
+  background-color:skyblue;
+  list-style-image:url(../image\/icons-rocket.png);
+}
+ 
+ul{
+   background-color:orange;
+ list-style-image:url(../image\/heartarrow-icon.png);
+   
+}
+
+li{
+   disply:inline;
+  list-style-type:circle;
+   background-color:grey;
+  color:white;
+ 
+  list-style-type:none;
+ }
